@@ -7,6 +7,6 @@
 # Class#3
     Análisis del proyecto Google Clone
 # Class#4
-    
+    Configuración del proyecto
 # Links
     https://platzi.com/blog/como-aprender-a-programar/
