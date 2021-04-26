@@ -8,5 +8,7 @@
     Análisis del proyecto Google Clone
 # Class#4
     Configuración del proyecto
+# Class#5
+    Chrome Dev Tools
 # Links
     https://platzi.com/blog/como-aprender-a-programar/
