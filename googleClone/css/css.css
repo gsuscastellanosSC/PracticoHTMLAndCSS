@@ -55,11 +55,17 @@ footer {
 .footer {
     background-color: #eeeeeeec;
     flex-direction: row;
-    text-align: center;
     justify-content: center;
 }
 
-.footer,
-span {
+footer,
+.sectionOne {
     margin-left: 10px;
+    text-align: right;
+}
+
+footer,
+.sectionTwo {
+    margin-left: 10px;
+    text-align: left
 }
