@@ -22,6 +22,8 @@
     Maquetado de la sección principal
 # Class#11    
     Estilos en la sección principal
+# Class#12
+    Estilos en la sección del input
 # Links
     BEM:
         http://getbem.com/introduction/
