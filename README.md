@@ -24,6 +24,8 @@
     Estilos en la sección principal
 # Class#12
     Estilos en la sección del input
+# Class#13    
+    Íconos y manejo de background hover
 # Links
     BEM:
         http://getbem.com/introduction/
