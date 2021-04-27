@@ -20,6 +20,8 @@
     Manejo de íconos e imágenes en etiquetas
 # Class#10
     Maquetado de la sección principal
+# Class#11    
+    Estilos en la sección principal
 # Links
     BEM:
         http://getbem.com/introduction/
