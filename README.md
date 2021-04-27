@@ -32,6 +32,8 @@
     Maquetado del Footer
 # Class#16
     Estilos en Footer
+# Class#17    
+    Cierre: diferencias entre CSS Grid y Flexbox
 # Links
     BEM:
         http://getbem.com/introduction/
