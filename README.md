@@ -14,7 +14,8 @@
     Maquetado del Header
 # Class#7    
     Agregando estilos al Header
-
+# Class#8
+    Posicionar una lista en horizontal
 # Links
     BEM:
         http://getbem.com/introduction/
