@@ -18,6 +18,8 @@
     Posicionar una lista en horizontal
 # Class#9    
     Manejo de íconos e imágenes en etiquetas
+# Class#10
+    Maquetado de la sección principal
 # Links
     BEM:
         http://getbem.com/introduction/
