@@ -16,6 +16,8 @@
     Agregando estilos al Header
 # Class#8
     Posicionar una lista en horizontal
+# Class#9    
+    Manejo de íconos e imágenes en etiquetas
 # Links
     BEM:
         http://getbem.com/introduction/
