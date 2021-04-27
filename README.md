@@ -30,6 +30,8 @@
     Estilos en los botones
 # Class#15    
     Maquetado del Footer
+# Class#16
+    Estilos en Footer
 # Links
     BEM:
         http://getbem.com/introduction/
