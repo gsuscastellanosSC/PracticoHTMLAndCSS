@@ -108,7 +108,7 @@ main .main-input-container:hover {
 }
 
 main .main-input-container .search-icon {
-    background-image: url('/img/search.PNG');
+    background-image: url('https://raw.githubusercontent.com/gsuscastellanosSC/PracticoHTMLAndCSS/master/img/search.PNG');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
