@@ -10,5 +10,10 @@
     Configuración del proyecto
 # Class#5
     Chrome Dev Tools
+# Class#6
+    Maquetado del Header
 # Links
-    https://platzi.com/blog/como-aprender-a-programar/
+    Live Server:
+        https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+    Challenge:
+        https://platzi.com/blog/como-aprender-a-programar/
