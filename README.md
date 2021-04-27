@@ -28,6 +28,8 @@
     Íconos y manejo de background hover
 # Class#14    
     Estilos en los botones
+# Class#15    
+    Maquetado del Footer
 # Links
     BEM:
         http://getbem.com/introduction/
