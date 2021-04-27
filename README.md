@@ -12,7 +12,12 @@
     Chrome Dev Tools
 # Class#6
     Maquetado del Header
+# Class#7    
+    Agregando estilos al Header
+
 # Links
+    BEM:
+        http://getbem.com/introduction/
     Live Server:
         https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
     Challenge:

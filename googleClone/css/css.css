@@ -15,6 +15,15 @@ header nav {
     justify-content: flex-end;
 }
 
+header nav .nav-right-section {
+    width: 250px;
+    height: auto;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
 
 /*.container {
     display: flex;
